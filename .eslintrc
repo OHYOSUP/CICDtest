@@ -1,0 +1,8 @@
+{
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "no-var": "error" // var 금지
+  }
+}
